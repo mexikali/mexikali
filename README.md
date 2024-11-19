@@ -18,4 +18,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mexikali&" alt="mexikali" />.</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mexikali&" alt="mexikali" />..</p>
