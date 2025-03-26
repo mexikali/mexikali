@@ -20,7 +20,7 @@
 
 <h3>🛠 Tech Stack:</h3>
 <ul>
-  <li><strong>Backend:</strong> Python (Flask), Node.js (Express.js)</li>
+  <li><strong>Backend:</strong> Python (Flask), Node.js (Express.js), Java (Spring Boot)</li>
   <li><strong>Frontend:</strong> Next.js, JavaScript, HTML/CSS</li>
   <li><strong>Databases:</strong> MySQL, PostgreSQL</li>
   <li><strong>Version Control:</strong> Git, GitHub</li>
